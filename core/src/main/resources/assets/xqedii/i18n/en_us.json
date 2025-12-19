@@ -1,0 +1,21 @@
+{
+  "xqedii": {
+    "settings": {
+      "name": "Offline Cosmetics",
+      "header": {
+        "restorercategory": {
+          "name": "Settings"
+        }
+      },
+      "enabled": {
+        "name": "Enabled"
+      },
+      "forceSkin": {
+        "name": "Restore Skin"
+      },
+      "showCosmetics": {
+        "name": "Restore Cosmetics"
+      }
+    }
+  }
+}
