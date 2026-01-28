@@ -1,4 +1,4 @@
-# Offline Cosmetics
+# Labymod Offline Cosmetics
 [![Release](https://img.shields.io/github/v/release/Xqedii/Offline-Cosmetics)](https://github.com/Xqedii/Offline-Cosmetics/releases/latest) 
 [![Discord](https://img.shields.io/badge/Discord-Join-7289DA?logo=discord&logoColor=white)](https://discord.com/invite/6JQfeQEB4W)
 
